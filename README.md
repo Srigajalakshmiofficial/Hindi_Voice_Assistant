@@ -5,7 +5,7 @@
 ---
 ## 🎬 Demo Video
 
-<video src="HINDI_VOICE_ASSISTANT.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/55218342-8e98-4cd7-9df0-88c76f092753" controls width="100%"></video>
 
 ---
 ## Features
